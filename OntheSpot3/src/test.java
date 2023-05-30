@@ -5,7 +5,7 @@ public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		//Initiate Scanner
 		Scanner scanner = new Scanner(System.in);
 		try {
 			boolean cont = true;
